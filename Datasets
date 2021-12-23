@@ -1,0 +1,10 @@
+There are three datasets-
+
+1. Training dataset: It consists of 1907 images ditributed in 32 classes. 
+You can download the dataset from: https://www.kaggle.com/aamohite/plantleafidentification 
+
+2. Validation dataset: It consist of 52 images
+You can download it from here: https://www.kaggle.com/aamohite/plantleafidentification-2
+
+3. Arrays dataset: It consists of the training samples and their labels, stored as of numpy arrays
+You can download it from: https://www.kaggle.com/aamohite/arrays
